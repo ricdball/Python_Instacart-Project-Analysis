@@ -38,14 +38,22 @@ Data used is from a number of open-sourced datasets from Instacart.
 [Instacart Datatset](https://github.com/user-attachments/files/16486360/customers.csv)
 ## Project Tools
 ● Pandas
+
 ● Numpy
+
 ● Seaborn
+
 ● Matplotlib
+
 ● SciPy
+
 ● Excel
+
 ● Jupyter Notebook
 ## Final Project Report
 [Final Report](https://github.com/user-attachments/files/16486379/A4_final_report_Drew_Ballinger.xlsx)
+
+[Instacart Basket Analysis.zip](https://github.com/user-attachments/files/16486413/Instacart.Basket.Analysis.zip)
 
 
 
